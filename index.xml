@@ -33,6 +33,14 @@
     </item>
     
     <item>
+      <title>TWIZ: The Wizard of Multimodal Conversational-Stimulus</title>
+      <link>https://jbordalo.github.io/publication/twiz2023/</link>
+      <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://jbordalo.github.io/publication/twiz2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Transferring Visual Attributes from Natural Language to Verified Image Generation</title>
       <link>https://jbordalo.github.io/publication/nl2vi/</link>
       <pubDate>Wed, 24 May 2023 00:00:00 +0000</pubDate>
@@ -144,7 +152,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-216578349&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-378215694&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -154,7 +162,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-216578349&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-378215694&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

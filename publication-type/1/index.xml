@@ -5,12 +5,20 @@
     <link>https://jbordalo.github.io/publication-type/1/</link>
       <atom:link href="https://jbordalo.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 24 May 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 03 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jbordalo.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://jbordalo.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>TWIZ: The Wizard of Multimodal Conversational-Stimulus</title>
+      <link>https://jbordalo.github.io/publication/twiz2023/</link>
+      <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://jbordalo.github.io/publication/twiz2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Transferring Visual Attributes from Natural Language to Verified Image Generation</title>
