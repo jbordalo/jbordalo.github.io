@@ -5,12 +5,20 @@
     <link>https://jbordalo.github.io/publication/</link>
       <atom:link href="https://jbordalo.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 03 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jbordalo.github.io/media/icon_hu2268d8848d559ecae2648aef8717433c_86406_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://jbordalo.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Visual Dialogue for Open Tasks</title>
+      <link>https://jbordalo.github.io/publication/visual_dialogue_for_open_tasks/</link>
+      <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://jbordalo.github.io/publication/visual_dialogue_for_open_tasks/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>TWIZ: The Wizard of Multimodal Conversational-Stimulus</title>
